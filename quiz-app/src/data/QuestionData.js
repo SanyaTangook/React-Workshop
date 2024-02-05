@@ -22,6 +22,14 @@ const QuestionsData=[
         C:"MySQL",
         D:"Chrome",
         answer:"D"
+    },
+    {
+        question:"Project จะเสร็จมั้ย",
+        A:"ไม่มีวันเสร็จ",
+        B:"ไม่ทำแม่งแล้ว",
+        C:"ต้องทำด้วยหรอ",
+        D:"ปล่อยใจ",
+        answer:"D"
     }
 ]
 export default QuestionsData
